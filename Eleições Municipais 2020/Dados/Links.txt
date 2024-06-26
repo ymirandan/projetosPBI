@@ -1,0 +1,18 @@
+Como os arquivos utilizados têm tamanho superior ao que o github suporta, estarei 
+disponibilizando os links onde é possivel baixar as bases de dados:
+
+https://dadosabertos.tse.jus.br/dataset/resultados-2020/resource/db0b6c75-dc82-48d8-b207-ba2b420ec58a
+Resultados 2020 - Votação nominal por município e zona
+Esse arquivo é um zip com varios csv, um para cada UF. Selecione votacao_candidato_munzona_2020_CE
+
+https://dadosabertos.tse.jus.br/dataset/resultados-2020/resource/87c23989-0cd7-4861-b439-5da32a7d98e7
+Resultados 2020 - Votação por seção eleitoral - 2020
+Extraia o csv votacao_secao_2020_CE
+
+https://dadosabertos.tse.jus.br/dataset/eleitorado-2020/resource/9c247e16-6170-4b7a-8786-dc61ed773836
+Eleitorado 2020 - CE - Perfil do eleitorado por seção eleitoral - 2020
+Extraia o csv perfil_eleitor_secao_2020_CE
+
+https://www.tre-ce.jus.br/institucional/zonas-eleitorais/locais-de-votacao-por-municipio-e-zona
+Locais de votação por município e zona
+Baixe o arquivo csv

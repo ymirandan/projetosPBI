@@ -1,3 +1,0 @@
-Como os arquivos utilizados têm tamanho superior ao que o github suporta, estarei disponibilizando os links de onde baixei as bases necessárias para construção do dashboard.
-
-https://dadosabertos.tse.jus.br/dataset/resultados-2020/resource/87c23989-0cd7-4861-b439-5da32a7d98e7
